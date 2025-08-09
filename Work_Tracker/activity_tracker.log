@@ -1,0 +1,462 @@
+[2025-08-09 03:16:53] EVENT: SCRIPT STOPPED MANUALLY -- 
+[2025-08-09 03:17:12] MySQL initialization completed.
+[2025-08-09 03:17:12] Activity tracker main loop starting.
+[2025-08-09 03:17:12] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 03:17:12] EVENT: login -- script_start (session=None)
+[2025-08-09 03:25:40] MySQL initialization completed.
+[2025-08-09 03:25:40] Activity tracker main loop starting.
+[2025-08-09 03:25:40] EVENT: login -- script_start (session=427)
+[2025-08-09 03:25:40] EVENT: UNLOCKED -- initial state
+[2025-08-09 03:25:46] EVENT: LOCKED -- session=427thon
+[2025-08-09 03:25:48] EVENT: UNLOCKED -- session=427
+[2025-08-09 03:29:44] MySQL initialization completed.
+[2025-08-09 03:29:44] Activity tracker main loop starting.
+[2025-08-09 03:29:44] EVENT: login -- script_start (session=427)
+[2025-08-09 03:29:44] EVENT: UNLOCKED -- initial state
+[2025-08-09 03:30:10] MySQL initialization completed.
+[2025-08-09 03:30:10] Activity tracker main loop starting.
+[2025-08-09 03:30:10] EVENT: login -- script_start (session=427)
+[2025-08-09 03:30:10] EVENT: UNLOCKED -- initial state
+[2025-08-09 03:51:14] MySQL initialization completed.
+[2025-08-09 03:51:14] Activity tracker main loop starting.
+[2025-08-09 03:51:14] EVENT: login -- script_start (session=427)
+[2025-08-09 03:51:14] EVENT: UNLOCKED -- initial state
+[2025-08-09 03:52:37] Processed 2025-08-09: first_login=2025-08-09 03:15:31, last_logout=2025-08-09 03:25:46, active_hours=20.74
+[2025-08-09 12:20:07] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 12:20:07] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 12:20:07] Activity tracker main loop starting.
+[2025-08-09 12:20:07] Activity tracker main loop starting.
+[2025-08-09 12:20:07] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 12:20:07] EVENT: login -- script_start (session=None)
+[2025-08-09 12:20:07] MySQL insert failed (login): 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 12:20:07] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 12:20:07] EVENT: login -- script_start (session=None)
+[2025-08-09 12:20:07] MySQL insert failed (login): 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 12:20:17] Session id changed => 3
+[2025-08-09 12:20:17] EVENT: UNLOCKED -- session=3
+[2025-08-09 12:20:17] Session id changed => 3
+[2025-08-09 12:20:17] EVENT: UNLOCKED -- session=3
+[2025-08-09 12:28:10] MySQL initialization completed.
+[2025-08-09 12:28:10] Activity tracker main loop starting.
+[2025-08-09 12:28:10] EVENT: login -- script_start (session=3)
+[2025-08-09 12:28:10] EVENT: UNLOCKED -- initial state
+[2025-08-09 12:29:02] EVENT: LOCKED -- session=3
+[2025-08-09 12:29:03] EVENT: LOCKED -- session=3
+[2025-08-09 12:29:06] EVENT: UNLOCKED -- session=3
+[2025-08-09 12:29:07] EVENT: UNLOCKED -- session=3
+[2025-08-09 12:31:13] MySQL initialization completed.
+[2025-08-09 12:31:13] Activity tracker main loop starting.
+[2025-08-09 12:31:13] EVENT: login -- script_start (session=3)
+[2025-08-09 12:31:13] EVENT: UNLOCKED -- initial state
+[2025-08-09 12:35:00] MySQL initialization completed.
+[2025-08-09 12:35:00] Activity tracker main loop starting.
+[2025-08-09 12:35:00] DEBUG: Python executable: /usr/bin/python3
+[2025-08-09 12:35:00] DEBUG: Python version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 9.4.0]
+[2025-08-09 12:35:00] EVENT: login -- script_start (session=3)
+[2025-08-09 12:35:00] EVENT: UNLOCKED -- initial state
+[2025-08-09 12:44:15] MySQL initialization completed.
+[2025-08-09 12:44:15] Activity tracker main loop starting.
+[2025-08-09 12:44:15] DEBUG: Python executable: /usr/bin/python3
+[2025-08-09 12:44:15] DEBUG: Python version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 9.4.0]
+[2025-08-09 12:44:15] EVENT: login -- script_start (session=3)
+[2025-08-09 12:44:15] EVENT: UNLOCKED -- initial state
+[2025-08-09 12:45:11] App usage tracker started.
+[2025-08-09 12:45:12] App switched: None -> Visual Studio Code
+[2025-08-09 12:45:17] App switched: Visual Studio Code -> MySQL Workbench
+[2025-08-09 12:45:37] App switched: MySQL Workbench -> Google Chrome
+[2025-08-09 12:46:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:46:32] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:50:22] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:50:27] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:50:32] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:51:17] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:51:22] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:51:27] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:51:32] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:51:37] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:51:57] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:52:12] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:52:17] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:52:22] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:52:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:52:32] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:52:37] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:52:42] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 12:52:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 12:52:54] App usage tracker stopped manually.
+[2025-08-09 13:02:48] MySQL initialization completed.
+[2025-08-09 13:02:48] Activity tracker main loop starting.
+[2025-08-09 13:02:48] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 13:02:48] EVENT: login -- script_start (session=None)
+[2025-08-09 13:05:12] MySQL initialization completed.
+[2025-08-09 13:05:12] Activity tracker main loop starting.
+[2025-08-09 13:05:12] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 13:05:12] EVENT: login -- script_start (session=None)
+[2025-08-09 13:09:31] App usage tracker started.
+[2025-08-09 13:09:31] App switched: None -> Visual Studio Code
+[2025-08-09 13:09:36] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:09:41] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:09:46] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:09:56] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:12:06] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:12:11] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:12:21] App switched: Visual Studio Code -> MySQL Workbench
+[2025-08-09 13:12:26] App switched: MySQL Workbench -> Visual Studio Code
+[2025-08-09 13:14:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:15:01] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:15:24] App usage tracker started.
+[2025-08-09 13:15:24] MySQL initialization completed.
+[2025-08-09 13:15:24] Activity tracker main loop starting.
+[2025-08-09 13:15:24] App switched: None -> Visual Studio Code
+[2025-08-09 13:15:24] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 13:15:24] EVENT: login -- script_start (session=None)
+[2025-08-09 13:19:35] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:19:40] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:19:50] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:22:05] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:22:15] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:22:20] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:22:25] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:22:30] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:22:40] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:22:45] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:22:55] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:23:00] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:23:20] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:23:40] App switched: Google Chrome -> MySQL Workbench
+[2025-08-09 13:23:45] App switched: MySQL Workbench -> Google Chrome
+[2025-08-09 13:24:35] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:24:40] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:25:15] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:25:30] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:25:50] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:25:55] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:27:40] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:29:16] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:29:21] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:29:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:29:41] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:29:46] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:29:56] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:30:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:30:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:30:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:30:41] App switched: Google Chrome -> MySQL Workbench
+[2025-08-09 13:30:51] App switched: MySQL Workbench -> Google Chrome
+[2025-08-09 13:31:01] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:31:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:31:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:31:41] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:31:46] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:31:51] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:31:56] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:32:06] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:32:11] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:32:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:32:31] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:32:36] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:32:41] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:32:46] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:33:26] App switched: Google Chrome -> MongoDB Compass
+[2025-08-09 13:33:36] App switched: MongoDB Compass -> Google Chrome
+[2025-08-09 13:34:11] App switched: Google Chrome -> MySQL Workbench
+[2025-08-09 13:34:16] App switched: MySQL Workbench -> Google Chrome
+[2025-08-09 13:35:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:35:41] App switched: Visual Studio Code -> MySQL Workbench
+[2025-08-09 13:35:46] App switched: MySQL Workbench -> Google Chrome
+[2025-08-09 13:35:51] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:36:01] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:37:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:37:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:38:31] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:39:37] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:39:47] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:39:52] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:40:57] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:41:07] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:41:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:41:32] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:42:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:43:02] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:43:07] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:43:22] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:43:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:43:37] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:43:47] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:43:52] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:43:57] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:44:32] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:46:17] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:46:42] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:47:42] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:47:47] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:47:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:48:19] MySQL connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+[2025-08-09 13:48:19] MySQL connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+[2025-08-09 13:48:22] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:48:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:48:37] MySQL connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+[2025-08-09 13:48:37] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:48:44] MySQL initialization completed.
+[2025-08-09 13:48:44] Activity tracker main loop starting.
+[2025-08-09 13:48:44] App usage tracker started.
+[2025-08-09 13:48:44] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 13:48:44] App switched: None -> Visual Studio Code
+[2025-08-09 13:48:44] EVENT: login -- script_start (session=None)
+[2025-08-09 13:49:05] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:49:20] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:50:05] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:50:10] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:50:20] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:50:21] MySQL connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+[2025-08-09 13:50:45] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 13:50:50] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 13:51:10] App switched: Google Chrome -> MySQL Workbench
+[2025-08-09 13:52:05] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 13:52:10] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:02] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 14:53:02] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 14:53:02] Cannot connect to MySQL, exiting app usage tracker.
+[2025-08-09 14:53:02] Activity tracker main loop starting.
+[2025-08-09 14:53:02] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 14:53:02] EVENT: login -- script_start (session=None)
+[2025-08-09 14:53:02] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-09 14:53:02] Skipping DB insert for login, no connection.
+[2025-08-09 14:53:07] App usage tracker started.
+[2025-08-09 14:53:07] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:11] MySQL initialization completed.
+[2025-08-09 14:53:11] Activity tracker main loop starting.
+[2025-08-09 14:53:11] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-09 14:53:11] EVENT: login -- script_start (session=None)
+[2025-08-09 14:53:12] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:17] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:22] App switched: None -> Google Chrome
+[2025-08-09 14:53:42] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:47] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:52] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 14:53:57] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-09 15:39:19] App switched: Google Chrome -> Documents
+[2025-08-09 15:39:24] App switched: Documents -> Terminal
+[2025-08-09 15:39:29] App switched: Terminal -> Visual Studio Code
+[2025-08-09 15:39:39] App switched: Visual Studio Code -> Google Chrome
+[2025-08-09 15:39:48] MySQL connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+[2025-08-09 15:42:09] App switched: Google Chrome -> Visual Studio Code
+[2025-08-09 15:42:14] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:52:54] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-10 00:52:54] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-10 00:52:54] Cannot connect to MySQL, exiting app usage tracker.
+[2025-08-10 00:52:54] Activity tracker main loop starting.
+[2025-08-10 00:52:54] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-10 00:52:54] EVENT: login -- script_start (session=None)
+[2025-08-10 00:52:54] MySQL connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+[2025-08-10 00:52:54] Skipping DB insert for login, no connection.
+[2025-08-10 00:52:59] App usage tracker started.
+[2025-08-10 00:52:59] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:03] MySQL initialization completed.
+[2025-08-10 00:53:03] Activity tracker main loop starting.
+[2025-08-10 00:53:03] WARNING: Could not determine session id; lock/unlock detection may not work until session appears.
+[2025-08-10 00:53:03] EVENT: login -- script_start (session=None)
+[2025-08-10 00:53:04] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:09] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:14] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:19] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:25] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:30] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:35] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:40] App switched: None -> Google Chrome
+[2025-08-10 00:53:45] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:50] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:53:55] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 00:59:06] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 00:59:11] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 00:59:16] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 00:59:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 00:59:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 00:59:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:00:11] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:00:41] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:00:56] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:01:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:01:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:01:36] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:01:46] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:01:51] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:02:46] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:03:11] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:03:26] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:03:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:03:36] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:03:46] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:03:51] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:04:01] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:04:11] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:04:21] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:04:31] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:04:36] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:05:01] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:05:11] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:05:21] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:05:31] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:05:37] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:05:52] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:06:01] App switched: Google Chrome -> MySQL Workbench
+[2025-08-10 01:06:07] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:06:16] App switched: MySQL Workbench -> Google Chrome
+[2025-08-10 01:06:22] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:06:36] App switched: Google Chrome -> MySQL Workbench
+[2025-08-10 01:06:37] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:06:41] App switched: MySQL Workbench -> Google Chrome
+[2025-08-10 01:06:52] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:07:07] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:07:22] App switched: Google Chrome -> MySQL Workbench
+[2025-08-10 01:07:22] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:07:32] App switched: MySQL Workbench -> Visual Studio Code
+[2025-08-10 01:07:37] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:07:37] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:07:52] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:08:07] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:08:22] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:08:37] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:08:52] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:09:07] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:09:07] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:09:22] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:09:22] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:09:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:09:42] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:09:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:09:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:10:02] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:10:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:10:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:10:32] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:10:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:10:47] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:10:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:11:12] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:11:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:11:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:11:37] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:11:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:11:52] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:11:57] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:11:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:12:12] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:12:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:12:17] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:12:27] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:12:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:12:32] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:12:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:12:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:13:12] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:13:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:13:27] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:13:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:13:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:13:47] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:13:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:13:57] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:13:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:14:02] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:14:12] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:14:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:14:17] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:14:22] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:14:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:14:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:14:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:14:57] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:14:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:15:14] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:15:29] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:15:44] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:15:57] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:15:59] Error emitting real-time updates: Object of type date is not JSON serializable
+[2025-08-10 01:16:07] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:16:52] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:16:57] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:17:02] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:17:13] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:18:28] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:18:33] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:18:38] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:18:58] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:19:13] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:19:18] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:19:23] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:19:48] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:20:43] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:20:53] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:20:58] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:21:18] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:21:23] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:21:33] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:21:48] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:21:48] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:21:58] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:22:03] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:22:18] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:22:33] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:22:48] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:22:53] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:23:03] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:23:03] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:23:08] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:23:11] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:23:16] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:23:20] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:23:23] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:23:35] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:23:50] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:24:05] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:24:20] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:24:35] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:24:50] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:25:05] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:25:08] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:25:11] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:25:13] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:25:26] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:25:42] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:25:43] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:25:53] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:25:57] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:26:12] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:26:27] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:26:42] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:26:57] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:27:12] Error emitting real-time updates: 1054 (42S22): Unknown column 'duration_seconds' in 'field list'
+[2025-08-10 01:27:23] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:28] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:33] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:38] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:44] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:49] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:54] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:27:59] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:04] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:09] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:14] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:19] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:24] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:29] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:34] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:39] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:44] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:49] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:54] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:28:59] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:29:04] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:29:09] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:29:14] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:29:19] Failed to get active window: Command '['xdotool', 'getactivewindow', 'getwindowname']' returned non-zero exit status 1.
+[2025-08-10 01:30:59] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:31:09] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:31:14] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:31:39] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:31:44] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:31:49] App switched: Visual Studio Code -> Google Chrome
+[2025-08-10 01:31:59] App switched: Google Chrome -> Visual Studio Code
+[2025-08-10 01:32:04] App switched: Visual Studio Code -> Home
+[2025-08-10 01:32:09] App switched: Home -> Documents

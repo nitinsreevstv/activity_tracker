@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Activity Tracker Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  /* Reset & base */
+  body, html {
+    margin: 0; padding: 0; height: 100%;
+    font-family: 'Inter', sans-serif;
+    background: #f9fafb;
+    color: #222;
+  }
+
+  header, footer {
+    background: #1f2937;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+  }
+
+  header h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
+  main {
+    max-width: 960px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .card {
+    background: white;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #334155;
+  }
+
+  canvas {
+    width: 100% !important;
+    max-height: 400px;
+  }
+
+  @media (max-width: 600px) {
+    main {
+      margin: 1rem;
+      padding: 0;
+    }
+    .card {
+      padding: 1rem;
+    }
+  }
+
+  /* Loader style */
+  #loading, .loading {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Activity Tracker Dashboard</h1>
+</header>
+
+<main>
+  <section class="card" id="daily-activity-section">
+    <h2>Daily Activity Summary (Last 30 days)</h2>
+    <div id="loading-daily" class="loading">Loading daily summary...</div>
+    <canvas id="dailyChart" aria-label="Line chart showing daily active hours" role="img"></canvas>
+  </section>
+
+  <section class="card" id="app-usage-section">
+    <h2>App Usage Today (Top 10 Apps)</h2>
+    <div id="loading-app" class="loading">Loading app usage...</div>
+    <canvas id="appChart" aria-label="Pie chart showing top app usage" role="img"></canvas>
+  </section>
+
+  <section class="card" id="activity-events-section">
+    <h2>Recent Activity Events</h2>
+    <div id="loading-activity" class="loading">Loading activity events...</div>
+    <table id="activityTable" style="width: 100%; border-collapse: collapse; display:none;">
+      <thead>
+        <tr style="background:#e2e8f0;">
+          <th style="padding:8px; text-align:left;">Time</th>
+          <th style="padding:8px; text-align:left;">Event</th>
+          <th style="padding:8px; text-align:left;">Details</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <!-- New section for Activity Timeline -->
+  <section class="card" id="activity-timeline-section">
+    <h2>Recent Activity Timeline</h2>
+    <div id="loading-timeline" class="loading">Loading activity timeline...</div>
+    <canvas id="activityTimelineChart" aria-label="Step line chart showing logged in/out timeline" role="img"></canvas>
+  </section>
+</main>
+
+<footer>
+  <small>Made with ❤️ by You — Powered by Flask & Chart.js</small>
+</footer>
+<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
